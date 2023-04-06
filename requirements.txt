@@ -1,2 +1,7 @@
 python-dotenv
 gradio
+datasets
+PIL
+os
+requests
+re
