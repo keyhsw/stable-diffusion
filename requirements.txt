@@ -1,7 +1,7 @@
 python-dotenv
 gradio
 datasets
-PIL
+pillow
 os
 requests
 re
